@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "GAUTI",
+    "receiver": "POOJA"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Hey Wifey, Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Maami",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Our first favourite pic of all time"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "When my maami looked like a princess and I a prince 😜"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "The moment that sealed our hearts together 4evr"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpeg",
+      "caption": "The moment I felt when nothing in the world could match this"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpeg",
+      "caption": "The Honeymoon magic"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpeg",
+      "caption": "The Public Kissing 😘"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I will listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Chaudhary",
+      "duration": "7:00",
+      "album": "Coke_Studio",
+      "artist": "",
+      "cover": "/src/assets/album-covers/chaudhary.jpg",
+      "audio": "/src/assets/songs/Chaudhary.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Dil Tu Jaan Tu",
+      "duration": "3:17", 
+      "album": "Album",
+      "artist": "",
+      "cover": "/src/assets/album-covers/diltu.jpg",
+      "audio": "/src/assets/songs/Dil_Tu_Jaan_Tu.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Samjhawan",
+      "duration": "4:25",
+      "album": "Humpty Sharma Ki Dulhania",
+      "artist": "",
+      "cover": "/src/assets/album-covers/samjhawan.jpg",
+      "audio": "/src/assets/songs/Samjhawan.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Aasa Orave",
+      "duration": "3:45",
+      "album": "Lubber Panthu",
+      "artist": "",
+      "cover": "/src/assets/album-covers/aasa_orave.jpg",
+      "audio": "/src/assets/songs/Aasa-Orave.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Kadhal Kanave",
+      "duration": "4:08",
+      "album": "Mundasupatti",
+      "artist": "",
+      "cover": "/src/assets/album-covers/mundasupatti.jpg",
+      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Maami,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. No matter the moment even in tough hard times, fights be it anything I still love you the same.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me ever."
+    ],
+    "signature": "Forever yours,\nGauti"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
